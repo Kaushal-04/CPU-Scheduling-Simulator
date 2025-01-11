@@ -44,13 +44,13 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 62,
+				"line" : 64,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 45,
+				"line" : 47,
 				"parent" : 0
 			},
 			{
@@ -197,18 +197,20 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6,
+				9
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "CPU-Scheduling-Simulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "CPU-Scheduling-Simulator_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "CPU-Scheduling-Simulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "CPU-Scheduling-Simulator::@6890427a1f51a3e7e1df",
@@ -280,7 +282,9 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6,
+				9
 			]
 		},
 		{
@@ -288,7 +292,11 @@
 			"sourceIndexes" : 
 			[
 				3,
-				5
+				5,
+				8,
+				11,
+				12,
+				13
 			]
 		},
 		{
@@ -296,14 +304,16 @@
 			"sourceIndexes" : 
 			[
 				4,
-				6
+				7,
+				10,
+				14
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				7
+				15
 			]
 		}
 	],
@@ -339,9 +349,53 @@
 			"sourceGroupIndex" : 2
 		},
 		{
+			"backtrace" : 1,
+			"path" : "preemptive.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "preemptive.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "preemptive.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "nonpreemptive.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "nonpreemptive.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "nonpreemptive.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/include/ui_preemptive.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/include/ui_nonpreemptive.h",
 			"sourceGroupIndex" : 1
 		},
 		{

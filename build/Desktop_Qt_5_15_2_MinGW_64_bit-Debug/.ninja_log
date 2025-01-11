@@ -1,0 +1,25 @@
+# ninja log v6
+13	223	7581711863130131	CPU-Scheduling-Simulator_autogen/timestamp	754f46afca98aef8
+13	223	7581711863130131	CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp	754f46afca98aef8
+2244	2477	7581711885465150	CPU-Scheduling-Simulator.exe	3b815e47cf3d05c5
+13	223	7581711863130131	D:/Project/CPU-Scheduling-Simulator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/timestamp	754f46afca98aef8
+13	223	7581711863130131	D:/Project/CPU-Scheduling-Simulator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp	754f46afca98aef8
+654	2850	7581705074857085	CMakeFiles/CPU-Scheduling-Simulator.dir/CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp.obj	bc4730851bbc4bb8
+662	2951	7581705074857085	CMakeFiles/CPU-Scheduling-Simulator.dir/main.cpp.obj	5474c3ea94e2b9c5
+224	2244	7581711865322935	CMakeFiles/CPU-Scheduling-Simulator.dir/mainwindow.cpp.obj	8014537a97478586
+80	854	7581730329003693	CPU-Scheduling-Simulator_autogen/timestamp	754f46afca98aef8
+80	854	7581730329003693	CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp	754f46afca98aef8
+80	854	7581730329003693	D:/Project/CPU-Scheduling-Simulator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/timestamp	754f46afca98aef8
+80	854	7581730329003693	D:/Project/CPU-Scheduling-Simulator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp	754f46afca98aef8
+855	4554	7581730330211771	CMakeFiles/CPU-Scheduling-Simulator.dir/CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp.obj	bc4730851bbc4bb8
+860	4702	7581730330211771	CMakeFiles/CPU-Scheduling-Simulator.dir/main.cpp.obj	5474c3ea94e2b9c5
+877	4762	7581730330372188	CMakeFiles/CPU-Scheduling-Simulator.dir/nonpreemptive.cpp.obj	717f47b75ae7e285
+872	4800	7581730330372188	CMakeFiles/CPU-Scheduling-Simulator.dir/preemptive.cpp.obj	edd851544faec293
+37	213	7581732768080730	CPU-Scheduling-Simulator_autogen/timestamp	754f46afca98aef8
+37	213	7581732768080730	CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp	754f46afca98aef8
+37	213	7581732768080730	D:/Project/CPU-Scheduling-Simulator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/timestamp	754f46afca98aef8
+37	213	7581732768080730	D:/Project/CPU-Scheduling-Simulator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CPU-Scheduling-Simulator_autogen/mocs_compilation.cpp	754f46afca98aef8
+222	2779	7581732770057156	CMakeFiles/CPU-Scheduling-Simulator.dir/nonpreemptive.cpp.obj	717f47b75ae7e285
+214	2824	7581732769976604	CMakeFiles/CPU-Scheduling-Simulator.dir/mainwindow.cpp.obj	8014537a97478586
+218	2874	7581732770017154	CMakeFiles/CPU-Scheduling-Simulator.dir/preemptive.cpp.obj	edd851544faec293
+2874	3178	7581732796542579	CPU-Scheduling-Simulator.exe	5f67db33c44c9d7e

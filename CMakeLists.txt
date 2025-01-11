@@ -38,6 +38,8 @@ else()
     else()
         add_executable(CPU-Scheduling-Simulator
             ${PROJECT_SOURCES}
+            preemptive.h preemptive.cpp preemptive.ui
+            nonpreemptive.h nonpreemptive.cpp nonpreemptive.ui
         )
     endif()
 endif()
